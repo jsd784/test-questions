@@ -146,3 +146,119 @@ As a CPA recruiter, you might want to ask additional questions that focus on tec
    "One potential challenge might be adjusting to a different industry’s financial nuances, but I see this as an opportunity to broaden my expertise. I’ve transitioned between different roles in dealerships before, each with its own set of challenges, and I’ve been able to adapt quickly by diving into the specifics of the industry and collaborating with cross-functional teams. I believe that the core principles of accounting remain the same, and I would focus on learning the operational differences in the transportation industry to ensure a smooth transition."
 
 These additional questions explore deeper aspects of the candidate's technical expertise and their ability to manage multiple functions, adapt to new systems, and communicate effectively with non-financial teams. The sample answers reflect the candidate's broad experience and ability to handle various aspects of accounting in different environments.
+
+--- 
+
+### co-pilot prompt
+
+
+
+you are the interviewing for following position:
+
+```
+SUMMARY:
+Growing, privately owned transportation company seeks experienced Accountant due to growth.  Our client has outstanding benefits and a VERY hybrid work schedule with 1 day in office, 4 WFH days.  Great opportunity to utilize your general accounting skills in a friendly, flexible environment.
+
+Description:
+
+About the job
+Our client has acquired new assets creating this need.  The company is stable, established and uses a common ERP system.  They seek a diversified general accountant who has seen the full cycle of accounting and assisted with month end close. 
+The ideal candidate will be involved with month end to include JE's and account reconciliations. Moreover, the candidate must have strong interpersonal skills and possess a strong business acumen.
+ 
+Responsibilities
+Responsible for general accounting, reconciliations, accruals and cash application for the business unit
+Complete account reconciliations 
+Compile and analyze financial statements
+Help COO with budgeting for business unit.  Role works closely with operations.
+Provide recommendations for and assist in implementation of process improvements
+Ensure timely and accurate completion of monthly accounting close and reporting requirements in compliance with GAAP, including reporting results and analyzing variances to budget.
+Support audits by gathering requests
+Support the COO with reports and other financial data
+Cross train on AP to help during vacations
+
+Qualifications
+Bachelor's degree in Accounting or related field
+Fluency in Microsoft Office suite (Outlook, Excel, Word, PowerPoint, etc.)
+ERP system experience desirable
+3+ years of full cycle accounting and financial reporting skills required
+Experience in a mid sized or smaller organization desirable, along with strong tenure in past positions
+```
+
+following is your resume:
+
+```
+Summary:
+A detail-oriented and results-driven General Accountant with over Ten years of experience in accounting, finance, and bookkeeping. Skilled in financial analysis, budgeting, and preparing financial reports. Proven track record of increasing profits and reducing expenses. Seeking to apply my skills and experience to contribute to the growth and success of an organization.
+
+PPL Motorhomes, Houston, TX
+Accounting Manager, May 2022- Current
+
+•	Manage accounts payable and accounts receivable functions, including processing invoices, making payments, and reconciling accounts.
+•	Prepare and analyze financial statements, including balance sheets, income statements, and cash flow statements.
+•	Monitor and manage the dealership's budget, forecasting revenue and expenses to ensure profitability.
+•	Conduct financial analysis to identify trends, opportunities, and risks that could impact the dealership's financial performance.
+•	Ensure compliance with accounting and tax regulations, including sales tax, payroll tax, and income tax.
+•	Manage payroll for dealership employees, including processing paychecks and maintaining payroll records.
+•	Collaborate with other departments to develop and implement financial strategies that support the dealership's overall goals.
+•	Streamlined accounting procedures and implemented a new expense system (Divvy), resulting in a 40% increase in efficiency.
+
+GROUP 1 AUTOMOTIVE, Houston, TX
+General Accountant, March 2020- May 2022
+
+•	Perform factory, floorplan, and RDR reconciliations at month-end
+•	Post daily banking activity for all assigned dealerships
+•	Post monthly/weekly finance and insurance product statements/invoices
+•	Post monthly finance reserve statements from lenders
+•	Activate all finance and insurance policies sold by the dealership
+•	Cancel any finance and insurance policies as requested by customers
+•	Maintain all finance and insurance product account schedules
+•	Assist in maintaining various other balance sheet account schedules
+
+
+SOUTHWEST RV dba CAMPING WORLD, Katy, TX
+Office Manager, January 2015- March 2020
+
+•	Process and post all cash receipts, credit card payments, scanned checks and ACH payments
+•	Maintain Dealership inventory including stocking in new and used inventory, intercompany transfers and monthly floor plan audit and reconciliation
+•	Process and facilitate all payroll and Human Resource paperwork for submission to corporate office
+•	Sort, review and post all vendor invoices and credit card transactions with correct GL coding
+•	Perform /oversee title work process and procedures including MSOs, POAs and other documentation, fees and related sales tax submissions
+•	Prepare/ provide reports, schedules or requests for additional information on a timely basis to the Area Controller, corporate office or General Manager
+•	Maintain high standards of accuracy and assure compliance with company and other applicable policies and procedures
+•	Overall ownership of Financial Reporting for multiple dealerships. Includes; income statement, balance sheet and other financial analysis.
+•	Monthly closing, Accruals & Deferrals, Journal Entries, Bank Reconciliations
+
+
+
+CAMPING WORLD, Katy, TX
+Bookkeeper, May 2012- January 2015
+
+•	Perform accounts payable/ receivable functions 
+•	Balance books and compile monthly reports 
+•	Coordinate and process human resources/payroll activities 
+•	Perform clerical duties in compliance with Corporate Office regulations 
+•	Inventory management control 
+•	Receive and verify details of daily transactions 
+•	Calculate daily sales results and prepare associated reports 
+
+EDUCATION
+SAM HOUSTON STATE UNIVERSITY, Huntsville, TX
+Bachelor of Business Administration in Accounting, 2013
+
+Houston Community College, Houston, TX
+Associates of Arts, 2010
+ADDITIONAL SKILLS
+ 
+•	Understanding of GAAP principals
+•	Microsoft Office
+•	Problem-solving and critical thinking
+•	Communication and collaboration
+•	Attention to detail and accuracy
+•	Oracle
+•	IDS
+•	SAP 
+•	10 keys by touch 
+•	CDK
+```
+
+Next set of questions asked will be based this.
